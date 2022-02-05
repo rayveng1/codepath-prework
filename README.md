@@ -4,7 +4,7 @@
 
 Submitted by: **Rayven Gsell**
 
-Time spent: **5** hours spent in total
+Time spent: **15** hours spent in total
 
 ## User Stories
 
@@ -26,7 +26,8 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
+Here's a walkthrough of implemented user stories:![](https://i.imgur.com/OH6uQyc.gif)
+
 
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
@@ -35,6 +36,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 ## Notes
 
 Describe any challenges encountered while building the app.
+I struggled with just starting and installing the pre-work. I work with a Windows PC and laptop, so I had tried running a VM but ran into issues with compatibility with my CPU, then a Hackintosh but also ran into more hardware constraints. Last resort was to use an old MacBook and install Monterey. After many hours of troubleshooting and just trying to get started, I finally got it going. 
 
 ## License
 
@@ -51,3 +53,4 @@ Describe any challenges encountered while building the app.
     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
     See the License for the specific language governing permissions and
     limitations under the License.
+
